@@ -7,9 +7,7 @@ description "Base server configuration"
 run_list("recipe[apt]",
          "recipe[runit]",
          "recipe[build-essential]",
-         "recipe[screen]",
-         "recipe[emacs]",
-         "recipe[base]",
+         "recipe[base]"
          )
 
 

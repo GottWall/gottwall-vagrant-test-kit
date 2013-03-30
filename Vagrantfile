@@ -7,7 +7,7 @@ Vagrant::Config.run do |config|
 
     web_config.vm.box_url = "http://files.vagrantup.com/precise64.box"
 
-    web_config.vm.network :hostonly, "10.7.8.1"
+    web_config.vm.network :hostonly, "10.7.8.8"
 
     web_config.vm.host_name = "gottwall-test-precise"
 
