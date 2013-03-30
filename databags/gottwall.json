@@ -1,0 +1,18 @@
+{
+   "id": "gottwall",
+   "users": [
+       {
+           "username":"gottwall",
+           "password":"12345"
+       }
+   ],
+   "databases": [
+       {
+           "name":"gottwall",
+           "owner":"gottwall",
+           "template":"template0",
+           "encoding": "UTF8",
+           "locale": "ru_RU.utf8"
+       }
+   ]
+}
