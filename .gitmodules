@@ -42,7 +42,7 @@
 	url = https://github.com/GottWall/gottwall-cookbook.git
 [submodule "cookbooks/postgresql"]
 	path = cookbooks/postgresql
-	url = https://github.com/coroutine/chef-postgresql.git
+	url = https://github.com/Lispython/pg_cluster-cookbook.git
 [submodule "cookbooks/chef_handler"]
 	path = cookbooks/chef_handler
 	url = git://github.com/opscode-cookbooks/chef_handler.git
